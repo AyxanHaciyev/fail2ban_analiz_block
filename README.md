@@ -1,3 +1,4 @@
+
 f2b_guard
 fail2ban loglarından bot hücumlarını tapan və hansı IP-lər üçün hansı ufw əmrini yazmağı göstərən sadə CLI aləti.
 
